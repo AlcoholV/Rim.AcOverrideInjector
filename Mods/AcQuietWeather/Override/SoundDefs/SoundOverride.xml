@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!--Building_Sustainers_Ambiences-->
+	<CrashedShipPart_Ambience.subSounds.0.volumeRange.min>10</CrashedShipPart_Ambience.subSounds.0.volumeRange.min>
+	<CrashedShipPart_Ambience.subSounds.0.volumeRange.max>11</CrashedShipPart_Ambience.subSounds.0.volumeRange.max>
+
+	<!--World_Sustainers_Ambiences-->
+	<AmbientNightInsects_Jungle.subSounds.0.volumeRange.min>2.5</AmbientNightInsects_Jungle.subSounds.0.volumeRange.min>
+	<AmbientNightInsects_Jungle.subSounds.0.volumeRange.max>2.5</AmbientNightInsects_Jungle.subSounds.0.volumeRange.max>
+	<AmbientDayInsects_Jungle.subSounds.0.volumeRange.min>1.5</AmbientDayInsects_Jungle.subSounds.0.volumeRange.min>
+	<AmbientDayInsects_Jungle.subSounds.0.volumeRange.max>1.5</AmbientDayInsects_Jungle.subSounds.0.volumeRange.max>
+	<AmbientAltitudeWind.subSounds.0.volumeRange.min>4</AmbientAltitudeWind.subSounds.0.volumeRange.min>
+	<AmbientAltitudeWind.subSounds.0.volumeRange.max>4</AmbientAltitudeWind.subSounds.0.volumeRange.max>
+	<Thunder_OffMap.subSounds.0.volumeRange.min>3</Thunder_OffMap.subSounds.0.volumeRange.min>
+	<Thunder_OffMap.subSounds.0.volumeRange.max>9</Thunder_OffMap.subSounds.0.volumeRange.max>
+	<Thunder_OnMap.subSounds.0.volumeRange.min>10</Thunder_OnMap.subSounds.0.volumeRange.min>
+	<Thunder_OnMap.subSounds.0.volumeRange.max>15</Thunder_OnMap.subSounds.0.volumeRange.max>
+	<AmbientRain.subSounds.0.volumeRange.min>4</AmbientRain.subSounds.0.volumeRange.min>
+	<AmbientRain.subSounds.0.volumeRange.max>4</AmbientRain.subSounds.0.volumeRange.max>
+	<AmbientWind_Storm.subSounds.0.volumeRange.min>8</AmbientWind_Storm.subSounds.0.volumeRange.min>
+	<AmbientWind_Storm.subSounds.0.volumeRange.max>8</AmbientWind_Storm.subSounds.0.volumeRange.max>
+	
+	<!--UI_Oneshots_Misc-->
+	<MessageAlert.subSounds.0.volumeRange.min>30</MessageAlert.subSounds.0.volumeRange.min>
+	<MessageAlert.subSounds.0.volumeRange.max>30</MessageAlert.subSounds.0.volumeRange.max>
+	<MessageBenefit.subSounds.0.volumeRange.min>30</MessageBenefit.subSounds.0.volumeRange.min>
+	<MessageBenefit.subSounds.0.volumeRange.max>30</MessageBenefit.subSounds.0.volumeRange.max>
+	<MessageAlertNegative.subSounds.0.volumeRange.min>30</MessageAlertNegative.subSounds.0.volumeRange.min>
+	<MessageAlertNegative.subSounds.0.volumeRange.max>30</MessageAlertNegative.subSounds.0.volumeRange.max>
+	<MessageSeriousAlert.subSounds.0.volumeRange.min>30</MessageSeriousAlert.subSounds.0.volumeRange.min>
+	<MessageSeriousAlert.subSounds.0.volumeRange.max>30</MessageSeriousAlert.subSounds.0.volumeRange.max>
+
+	<!--World_Oneshots_Explosions-->
+	<Explosion_Bomb.subSounds.0.volumeRange.min>40</Explosion_Bomb.subSounds.0.volumeRange.min>
+	<Explosion_Bomb.subSounds.0.volumeRange.max>40</Explosion_Bomb.subSounds.0.volumeRange.max>
+	<Explosion_Stun.subSounds.0.volumeRange.min>40</Explosion_Stun.subSounds.0.volumeRange.min>
+	<Explosion_Stun.subSounds.0.volumeRange.max>40</Explosion_Stun.subSounds.0.volumeRange.max>
+	<Explosion_Flame.subSounds.0.volumeRange.min>39</Explosion_Flame.subSounds.0.volumeRange.min>
+	<Explosion_Flame.subSounds.0.volumeRange.max>40</Explosion_Flame.subSounds.0.volumeRange.max>
+	<Explosion_EMP.subSounds.0.volumeRange.min>40</Explosion_EMP.subSounds.0.volumeRange.min>
+	<Explosion_EMP.subSounds.0.volumeRange.max>40</Explosion_EMP.subSounds.0.volumeRange.max>
+</LanguageData>

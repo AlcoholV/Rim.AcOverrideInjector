@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<ModMetaData>
+		<name>Ac-Quiet Weather</name>
+		<author>AlcoholV</author>
+		<url>https://github.com/AlcoholV/Rim.AcOverrideInjector</url>
+		<targetVersion>0.16.0000</targetVersion>
+		<description>Makes weather and some abnormally loud effect become quiet.
+Require Override Injector.
+		</description>
+</ModMetaData>

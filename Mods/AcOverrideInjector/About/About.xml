@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<ModMetaData>
+		<name>Ac-Override Injector</name>
+		<author>AlcoholV</author>
+		<url>https://github.com/AlcoholV/Rim.AcOverrideInjector</url>
+		<targetVersion>0.16.0000</targetVersion>
+		<description>Override defs without changing the original defs xml.
+</description>
+</ModMetaData>
